@@ -1,0 +1,33 @@
+# LaTeX
+*.aux
+*.log
+*.toc
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Word
+~$*.doc*
+*.docx.backup
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+*.pdf
+*.epub
+*.mobi
+
+# Temporary
+*.tmp
+*.bak
